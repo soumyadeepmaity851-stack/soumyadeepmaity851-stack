@@ -32,7 +32,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=63FFD6&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)"/>
+  <img src="(https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=63FFD6&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)"/>
 </p>
 
 ---
