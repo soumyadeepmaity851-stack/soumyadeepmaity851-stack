@@ -29,7 +29,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Info About ME 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Soumyadeep+Maity;B.Tech+CSE+(AIML)+Student;Passionate+About+AI+%26+ML;Learning+Python+%7C+C+%7C+Web+Development;Future+AI+Engineer+🚀">
